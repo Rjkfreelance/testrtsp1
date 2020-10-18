@@ -2,10 +2,10 @@
   "name": "rtsp-stream",
   "version": "1.0.0",
   "description": "",
-  "main": "rtspcamtest.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node rtspcamtest.js"
+    "start":"node app.js"
   },
   "keywords": [],
   "author": "",
