@@ -1,0 +1,17 @@
+{
+  "name": "rtsp-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rtspcamtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node rtspcamtest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-onvif": "^0.1.7",
+    "node-rtsp-stream": "0.0.4"
+  }
+}
